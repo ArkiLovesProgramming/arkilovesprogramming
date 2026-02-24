@@ -5,6 +5,6 @@
 
 - 📫 How to reach me **betaweiwang@gmail.com**
 
-- 📝 I regularly write articles on [arkiw,me](arkiw.me)
+- 📝 I regularly write articles on [arkiw.me](https://arkiw.me)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/arkilovesprogramming/](https://www.linkedin.com/in/arkilovesprogramming/)
